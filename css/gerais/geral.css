@@ -1,0 +1,25 @@
+body{
+  
+  background: linear-gradient(rgba(175,103,233,1) 0%, rgba(101,101,231,1) 100%);
+  background-repeat: no-repeat;
+  height: 100vh;
+ 
+  
+  }
+  img{
+    max-width: 100%;
+    display: block;
+  }
+  
+  h3,h2,p{
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .mt{
+    margin-top: 15px;
+  }
+
+  .pb{
+    padding-bottom: 10px;
+  }

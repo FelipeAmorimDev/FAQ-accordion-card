@@ -24,13 +24,7 @@
   background-position: -40px;
   
 }
-.faq-container img {
-  visibility:visible;
-  background: url("../../images/illustration-woman-online-desktop.svg") no-repeat left center;
-  position: relative;
-  left: -20px;
 
-}
 
 .faq-container .faqs{
   display: flex;

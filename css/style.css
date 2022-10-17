@@ -1,7 +1,4 @@
 @import url("./gerais/geral.css");
-
-
-@import url("./home/faq.css");
 @import url("./utilitarios/cores.css");
-
 @import url("./utilitarios/tipografia.css");
+@import url("./home/faq.css");
